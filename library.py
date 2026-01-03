@@ -1,4 +1,4 @@
-print("Student Registration Module")
+print("Library Management System-main version")
 def login(username,password):
     if username=="admin"and password=="1234":
         print("Login successful")
